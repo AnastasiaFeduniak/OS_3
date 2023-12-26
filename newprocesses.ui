@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>NewProcesses</class>
+ <widget class="QDialog" name="NewProcesses">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>261</width>
+    <height>174</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="CreateButton">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>30</y>
+     <width>101</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Create Processes</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="CancelButton">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>70</y>
+     <width>101</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Cancel creation</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="Telegram">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>30</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Telegram</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="Palindrome">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>60</y>
+     <width>91</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Palindromes</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="Taskmgr">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>90</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Taskmgr</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="Tabulation">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>120</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Tabulation</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

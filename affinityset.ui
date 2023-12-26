@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AffinitySet</class>
+ <widget class="QDialog" name="AffinitySet">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>271</width>
+    <height>133</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QCheckBox" name="chb0">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>0 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb1">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>40</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>1 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>70</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>2 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb3">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>100</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>3 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb4">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>10</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>4 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb5">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>40</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>5 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb6">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>70</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>6 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb7">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>100</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>7 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb8">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>10</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>8 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb9">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>40</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>9 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb10">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>70</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>10 CPU</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="chb11">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>100</y>
+     <width>78</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>11 CPU</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="SetButton">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>100</y>
+     <width>41</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Set</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
